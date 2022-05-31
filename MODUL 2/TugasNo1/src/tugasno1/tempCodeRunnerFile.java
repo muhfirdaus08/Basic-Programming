@@ -1,0 +1,1 @@
+y==1 && x>=1 && x<=angka || x==angka && y>=1 && y<=angka
